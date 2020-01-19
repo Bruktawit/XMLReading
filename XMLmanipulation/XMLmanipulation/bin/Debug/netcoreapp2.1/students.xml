@@ -1,0 +1,26 @@
+<StudentDetails>
+  <Student>
+    <studId>1</studId>
+    <studFirstName>Bruktawit</studFirstName>
+    <studLastName>Teklay</studLastName>
+    <studYear>4</studYear>
+  </Student>
+  <Student>
+    <studId>2</studId>
+    <studFirstName>Amen</studFirstName>
+    <studLastName>Sime</studLastName>
+    <studYear>5</studYear>
+  </Student>
+  <Student>
+    <studId>3</studId>
+    <studFirstName>Betelhem</studFirstName>
+    <studLastName>Girma</studLastName>
+    <studYear>4</studYear>
+  </Student>
+  <Student>
+    <studId>4</studId>
+    <studFirstName>Emnet </studFirstName>
+    <studLastName>Mesfin</studLastName>
+    <studYear>4</studYear>
+  </Student>
+</StudentDetails>

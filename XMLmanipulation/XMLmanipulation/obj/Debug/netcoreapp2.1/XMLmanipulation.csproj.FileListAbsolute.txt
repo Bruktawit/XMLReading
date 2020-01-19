@@ -1,0 +1,11 @@
+C:\Users\Bruktawit\source\repos\XMLmanipulation\XMLmanipulation\bin\Debug\netcoreapp2.1\XMLmanipulation.deps.json
+C:\Users\Bruktawit\source\repos\XMLmanipulation\XMLmanipulation\bin\Debug\netcoreapp2.1\XMLmanipulation.runtimeconfig.json
+C:\Users\Bruktawit\source\repos\XMLmanipulation\XMLmanipulation\bin\Debug\netcoreapp2.1\XMLmanipulation.runtimeconfig.dev.json
+C:\Users\Bruktawit\source\repos\XMLmanipulation\XMLmanipulation\bin\Debug\netcoreapp2.1\XMLmanipulation.dll
+C:\Users\Bruktawit\source\repos\XMLmanipulation\XMLmanipulation\bin\Debug\netcoreapp2.1\XMLmanipulation.pdb
+C:\Users\Bruktawit\source\repos\XMLmanipulation\XMLmanipulation\obj\Debug\netcoreapp2.1\XMLmanipulation.csprojAssemblyReference.cache
+C:\Users\Bruktawit\source\repos\XMLmanipulation\XMLmanipulation\obj\Debug\netcoreapp2.1\XMLmanipulation.csproj.CoreCompileInputs.cache
+C:\Users\Bruktawit\source\repos\XMLmanipulation\XMLmanipulation\obj\Debug\netcoreapp2.1\XMLmanipulation.AssemblyInfoInputs.cache
+C:\Users\Bruktawit\source\repos\XMLmanipulation\XMLmanipulation\obj\Debug\netcoreapp2.1\XMLmanipulation.AssemblyInfo.cs
+C:\Users\Bruktawit\source\repos\XMLmanipulation\XMLmanipulation\obj\Debug\netcoreapp2.1\XMLmanipulation.dll
+C:\Users\Bruktawit\source\repos\XMLmanipulation\XMLmanipulation\obj\Debug\netcoreapp2.1\XMLmanipulation.pdb
